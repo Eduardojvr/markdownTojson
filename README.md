@@ -1,12 +1,16 @@
 # Nome do jogo a  aqui 
 
-### Descrição: Breve descrição sobre o jogo.
+### Descrição: 
+    Breve descrição sobre o jogo.
 
-### Versão do jogo: 1.0
+### Versão do jogo: 
+    1.0
 
-### Ano de Lançamento: 2019
+### Ano de Lançamento: 
+    2019
 
-### Repositório Oficial: Link do repositório oficial
+### Repositório Oficial: 
+    Link do repositório oficial
 
 ### Galeria de imagens: 
 
