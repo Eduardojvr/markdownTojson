@@ -1,5 +1,3 @@
----
-
 Nome do Jogo: Nome do jogo a  aqui 
 
 Descrição: Breve descrição sobre o jogo.
@@ -39,4 +37,3 @@ Músicos:
     - Músico 1
     - Músico 2
 
----
