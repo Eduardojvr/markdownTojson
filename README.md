@@ -17,11 +17,11 @@
     - Melhor música
 
 ### Galeria de imagens:
-   <p align="center"><a href="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png" target="_blank"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></a></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></p>
 
-   <p align="center"><a href="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg" target="_blank"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></a></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></p>
 
-   <p align="center"><a href="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg" target="_blank"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></a></p>
+   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
 
 
 ### Gêneros:
