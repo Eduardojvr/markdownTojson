@@ -1,7 +1,6 @@
 import os
 import glob
 import re
-import time
 
 def lista_arquivo():
     lista = []
@@ -17,7 +16,6 @@ lista_md = lista_arquivo()
 dados = []
 aux = ''
 is_url = 0
-lista_prop = ["Description:", "Version:", "Year:" , "Repository:" , "Awards:", "Gallery:", "Genre:", "Development:", "Art:", "Music:"]
 
 for i in lista_md:
     count = 0
