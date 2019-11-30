@@ -1,16 +1,16 @@
-# Game Name
+# Nome ou título
 
 ## Description:
-   Breve descrição do jogo. Os dados de cada tópico devem conter um tab em seu início. Obedeça a formatação exata deste template.
+   Breve descrição.
 
 ## Version:
-   Versão do jogo. Exemplo: 1.0, 2.0...
+   Versão. Exemplo: 1.0, 2.0...
 
 ## Year:
-   Ano de lançamento do jogo.
+   Ano de lançamento.
 
 ## Repository:
-   Link do repositório oficial do jogo.
+   Link do repositório oficial.
 
 ## Awards:
    - Melhor jogo da categoria
@@ -18,13 +18,16 @@
 
 ## Gallery:
 ### Cover Image:
-   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac1.png"></p>
 
+   Imagem
+   
 ### Carousel Gallery:
-   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac2.jpg"></p>
+   
+   Imagem
 
 ### Image Gallery:
-   <p align="center"><img width="400"src="https://github.com/unbgames/unbgames/blob/issue_9/img_tmp/pac3.jpg"></p>
+   
+   Imagem
 
 ## Genre:
    - Rpg
